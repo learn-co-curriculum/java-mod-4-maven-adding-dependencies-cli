@@ -1,4 +1,4 @@
-# Adding Dependencies
+# Adding Maven Dependencies CLI
 
 ## Learning Goals
 
